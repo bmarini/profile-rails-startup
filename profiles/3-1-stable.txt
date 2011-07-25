@@ -1,0 +1,750 @@
+                                          config/environment
+                                           /Users/ben/Development/RailsProfiling/three-one-stable/config/application
+     15.96 KB        270 obj      1.8 ms    /Users/ben/Development/RailsProfiling/three-one-stable/config/boot
+                                            rails/all
+                                             rails
+     13.43 KB        140 obj      0.4 ms      rails/ruby_version_check
+                                              active_support
+     39.53 KB        786 obj      2.9 ms       securerandom
+                                               active_support/dependencies/autoload
+     39.88 KB        714 obj      1.1 ms        active_support/inflector/methods
+     25.35 KB        290 obj      0.7 ms        active_support/lazy_load_hooks
+     87.80 KB       1390 obj      3.1 ms       active_support/dependencies/autoload
+     14.59 KB        164 obj      0.5 ms       active_support/version
+    194.91 KB       3561 obj      9.3 ms      active_support
+     34.51 KB        594 obj      1.8 ms      active_support/core_ext/kernel/reporting
+     17.23 KB        175 obj      0.6 ms      active_support/core_ext/array/extract_options
+                                              active_support/core_ext/logger
+     37.83 KB        545 obj      1.0 ms       active_support/core_ext/class/attribute_accessors
+                                               logger
+     64.24 KB       1268 obj      2.0 ms        monitor
+    179.57 KB       3882 obj      5.0 ms       logger
+    249.30 KB       5199 obj      7.3 ms      active_support/core_ext/logger
+                                              rails/application
+     17.66 KB        177 obj      0.5 ms       active_support/core_ext/hash/reverse_merge
+     19.58 KB        243 obj      0.6 ms       active_support/file_update_checker
+                                               rails/plugin
+                                                rails/engine
+                                                 rails/railtie
+     41.47 KB        706 obj      1.7 ms          rails/initializable
+                                                  rails/configuration
+                                                   active_support/deprecation
+                                                    active_support/deprecation/behaviors
+                                                     active_support/notifications
+                                                      active_support/core_ext/module/delegation
+     25.05 KB        154 obj      0.6 ms               active_support/core_ext/module/remove_method
+     66.48 KB        654 obj      1.4 ms              active_support/core_ext/module/delegation
+    124.27 KB       1508 obj      2.9 ms             active_support/notifications
+     26.26 KB        177 obj      0.5 ms             active_support/core_ext/array/wrap
+    196.98 KB       2072 obj      4.3 ms            active_support/deprecation/behaviors
+     30.34 KB        538 obj      0.8 ms            active_support/deprecation/reporting
+                                                    active_support/deprecation/method_wrappers
+     21.99 KB        129 obj      0.5 ms             active_support/core_ext/module/deprecation
+     30.90 KB        368 obj      0.6 ms             active_support/core_ext/module/aliasing
+     94.45 KB        876 obj      2.1 ms            active_support/deprecation/method_wrappers
+     58.55 KB        924 obj      1.5 ms            active_support/deprecation/proxy_wrappers
+    400.77 KB       4631 obj      9.5 ms           active_support/deprecation
+                                                   active_support/ordered_options
+                                                    active_support/ordered_hash
+                                                     psych
+     87.34 KB       1551 obj      2.9 ms             active_support/ordered_hash
+    115.27 KB       1915 obj      3.5 ms            active_support/ordered_options
+     19.79 KB        170 obj      0.5 ms            active_support/core_ext/hash/deep_dup
+     63.60 KB       1351 obj      1.9 ms            rails/paths
+     17.45 KB        110 obj      0.2 ms            rails/rack
+    648.17 KB       8861 obj     16.7 ms           rails/configuration
+                                                   active_support/inflector
+     54.17 KB       1365 obj      1.1 ms            active_support/inflector/inflections
+                                                    active_support/inflector/transliterate
+                                                     active_support/core_ext/string/multibyte
+                                                      active_support/multibyte
+     50.60 KB        489 obj      0.8 ms               active_support/core_ext/module/attribute_accessors
+     30.24 KB        354 obj      0.6 ms               active_support/multibyte/utils
+    109.82 KB       1122 obj      2.1 ms              active_support/multibyte
+    139.41 KB       1422 obj      2.7 ms             active_support/core_ext/string/multibyte
+                                                     active_support/i18n
+                                                      i18n
+     19.96 KB        107 obj      0.6 ms               i18n/version
+     42.94 KB        895 obj      1.1 ms               i18n/exceptions
+     26.93 KB        299 obj      0.6 ms               i18n/interpolate/ruby
+    159.42 KB       2971 obj      4.5 ms              i18n
+    212.98 KB       3657 obj      6.0 ms             active_support/i18n
+    384.37 KB       5446 obj      9.3 ms            active_support/inflector/transliterate
+     55.44 KB       1362 obj      1.4 ms            active_support/inflections
+     86.23 KB        833 obj      1.7 ms            active_support/core_ext/string/inflections
+    611.22 KB       9266 obj     14.3 ms           active_support/inflector
+   1346.83 KB      19700 obj     33.8 ms          rails/railtie
+     25.14 KB        447 obj      0.5 ms          rails/engine/railties
+   1565.88 KB      23341 obj     37.6 ms         rails/engine
+                                                 active_support/core_ext/array/conversions
+                                                  active_support/xml_mini
+                                                   active_support/xml_mini/rexml
+     33.42 KB        390 obj      0.6 ms            active_support/core_ext/object/blank
+     95.99 KB       1234 obj      3.2 ms           active_support/xml_mini/rexml
+    249.92 KB       2966 obj      5.2 ms          active_support/xml_mini
+     22.56 KB        300 obj      0.6 ms          active_support/core_ext/hash/keys
+    335.89 KB       4253 obj      7.2 ms         active_support/core_ext/array/conversions
+   1939.32 KB      28179 obj     45.4 ms        rails/plugin
+   2041.46 KB      30029 obj     48.8 ms       rails/application
+     11.89 KB        106 obj      0.3 ms       rails/version
+                                               active_support/railtie
+                                                active_support/i18n_railtie
+     32.12 KB        399 obj      0.6 ms         active_support/concern
+    154.14 KB       2244 obj      3.3 ms        active_support/i18n_railtie
+    201.12 KB       2896 obj      4.3 ms       active_support/railtie
+                                               action_dispatch/railtie
+                                                action_dispatch
+                                                 action_pack
+     16.35 KB        140 obj      0.5 ms          action_pack/version
+     31.86 KB        246 obj      1.1 ms         action_pack
+                                                 active_model
+     16.70 KB        158 obj      0.6 ms          active_model/version
+     76.43 KB       1191 obj      2.5 ms         active_model
+     31.19 KB        815 obj      1.0 ms         rack
+    218.21 KB       3812 obj      6.9 ms        action_dispatch
+    245.82 KB       4245 obj      7.8 ms       action_dispatch/railtie
+   3045.34 KB      47760 obj     83.3 ms      rails
+                                              active_record/railtie
+                                               active_record
+                                                arel
+     24.75 KB        418 obj      0.6 ms         arel/crud
+     51.89 KB        238 obj      2.2 ms         arel/factory_methods
+     17.13 KB        218 obj      0.6 ms         arel/expressions
+     41.67 KB        982 obj      1.0 ms         arel/predications
+     16.01 KB        178 obj      0.4 ms         arel/math
+     14.59 KB        101 obj      0.3 ms         arel/alias_predication
+     15.48 KB        118 obj      0.3 ms         arel/order_predications
+     36.45 KB        876 obj      0.9 ms         arel/table
+                                                 arel/attributes
+     23.58 KB        276 obj      0.5 ms          arel/attributes/attribute
+     39.46 KB        439 obj      0.8 ms         arel/attributes
+     19.74 KB        229 obj      0.4 ms         arel/compatibility/wheres
+     13.72 KB         79 obj      0.3 ms         arel/relation
+     13.76 KB         84 obj      0.3 ms         arel/expression
+                                                 arel/visitors
+     24.58 KB        281 obj      0.4 ms          arel/visitors/visitor
+     46.81 KB       1128 obj      1.1 ms          arel/visitors/depth_first
+                                                  arel/visitors/to_sql
+     20.60 KB        238 obj      1.7 ms           bigdecimal
+    115.07 KB       3754 obj      4.7 ms          arel/visitors/to_sql
+     16.22 KB        128 obj      0.3 ms          arel/visitors/sqlite
+     18.16 KB        210 obj      0.3 ms          arel/visitors/postgresql
+     20.11 KB        339 obj      0.4 ms          arel/visitors/mysql
+     25.86 KB        527 obj      0.5 ms          arel/visitors/mssql
+     32.06 KB        736 obj      0.6 ms          arel/visitors/oracle
+     17.11 KB        131 obj      0.3 ms          arel/visitors/join_sql
+     16.12 KB        126 obj      0.3 ms          arel/visitors/where_sql
+     16.54 KB        121 obj      0.3 ms          arel/visitors/order_clauses
+     54.61 KB       1755 obj      1.4 ms          arel/visitors/dot
+     16.31 KB        123 obj      0.3 ms          arel/visitors/ibm_db
+     19.49 KB        376 obj      0.5 ms          arel/visitors/informix
+    464.78 KB      10221 obj     12.2 ms         arel/visitors
+     18.76 KB        249 obj      0.4 ms         arel/tree_manager
+     19.35 KB        276 obj      0.4 ms         arel/insert_manager
+     58.14 KB       1686 obj      1.2 ms         arel/select_manager
+     21.49 KB        313 obj      0.4 ms         arel/update_manager
+     16.20 KB        149 obj      0.3 ms         arel/delete_manager
+                                                 arel/nodes
+     21.53 KB        256 obj      0.4 ms          arel/nodes/node
+     19.00 KB        224 obj      0.4 ms          arel/nodes/select_statement
+     21.24 KB        295 obj      0.4 ms          arel/nodes/select_core
+     17.80 KB        169 obj      0.3 ms          arel/nodes/insert_statement
+     18.42 KB        204 obj      0.4 ms          arel/nodes/update_statement
+     15.42 KB         90 obj      0.3 ms          arel/nodes/terminal
+     23.54 KB        258 obj      0.4 ms          arel/nodes/unary
+     18.03 KB        156 obj      0.3 ms          arel/nodes/ascending
+     17.86 KB        156 obj      0.3 ms          arel/nodes/descending
+     17.96 KB        157 obj      0.3 ms          arel/nodes/unqualified_column
+     16.36 KB        113 obj      0.3 ms          arel/nodes/with
+     27.14 KB        338 obj      0.4 ms          arel/nodes/binary
+     16.00 KB        119 obj      0.3 ms          arel/nodes/equality
+     15.08 KB         88 obj      0.3 ms          arel/nodes/in
+     16.77 KB        112 obj      0.3 ms          arel/nodes/join_source
+     17.94 KB        166 obj      0.3 ms          arel/nodes/delete_statement
+     17.16 KB        152 obj      0.3 ms          arel/nodes/table_alias
+     23.66 KB        305 obj      0.4 ms          arel/nodes/infix_operation
+     17.70 KB        187 obj      0.3 ms          arel/nodes/and
+     21.20 KB        260 obj      0.4 ms          arel/nodes/function
+     15.87 KB        119 obj      0.3 ms          arel/nodes/count
+     16.68 KB        141 obj      0.3 ms          arel/nodes/values
+     16.58 KB        128 obj      0.3 ms          arel/nodes/named_function
+     15.43 KB         90 obj      0.3 ms          arel/nodes/inner_join
+     15.51 KB         90 obj      0.3 ms          arel/nodes/outer_join
+     16.15 KB        107 obj      0.3 ms          arel/nodes/string_join
+     15.98 KB        120 obj      0.3 ms          arel/nodes/sql_literal
+    512.68 KB       5079 obj      9.8 ms         arel/nodes
+     13.27 KB         78 obj      0.3 ms         arel/deprecated
+     15.16 KB        105 obj      0.3 ms         arel/sql/engine
+     13.82 KB         80 obj      0.3 ms         arel/sql_literal
+   1478.31 KB      22665 obj     35.2 ms        arel
+     14.17 KB        124 obj      0.3 ms        active_record/version
+     41.00 KB        619 obj      1.0 ms        active_support/core_ext/enumerable
+                                                active_support/core_ext/class/attribute
+     18.09 KB        156 obj      0.4 ms         active_support/core_ext/kernel/singleton_class
+     72.42 KB        807 obj      1.6 ms        active_support/core_ext/class/attribute
+   1813.68 KB      28567 obj     43.4 ms       active_record
+     26.84 KB        227 obj      0.7 ms       active_model/railtie
+                                               action_controller/railtie
+                                                action_controller
+                                                 abstract_controller
+                                                  active_support/ruby/shim
+                                                   active_support/core_ext/date/calculations
+                                                    active_support/duration
+     30.41 KB        455 obj      1.0 ms             active_support/basic_object
+     21.26 KB        134 obj      0.4 ms             active_support/core_ext/object/acts_like
+    107.61 KB       1615 obj      2.8 ms            active_support/duration
+                                                    active_support/core_ext/date/zones
+                                                     active_support/core_ext/time/zones
+                                                      active_support/time_with_zone
+                                                       active_support/values/time_zone
+     29.82 KB        218 obj      0.5 ms                active_support/core_ext/object/try
+    134.30 KB       3650 obj      2.5 ms               active_support/values/time_zone
+     24.12 KB        144 obj      0.4 ms               active_support/core_ext/object/inclusion
+    252.19 KB       6114 obj      5.0 ms              active_support/time_with_zone
+    284.19 KB       6544 obj      5.7 ms             active_support/core_ext/time/zones
+    317.45 KB       6822 obj      6.5 ms            active_support/core_ext/date/zones
+    525.28 KB      10386 obj     11.6 ms           active_support/core_ext/date/calculations
+                                                   active_support/core_ext/date_time/conversions
+                                                    active_support/core_ext/time/conversions
+     51.83 KB        441 obj      1.1 ms             active_support/core_ext/time/publicize_conversion_methods
+    121.62 KB       1016 obj      2.3 ms            active_support/core_ext/time/conversions
+     52.45 KB        932 obj      1.8 ms            active_support/core_ext/date_time/calculations
+    253.84 KB       3075 obj      5.9 ms           active_support/core_ext/date_time/conversions
+     20.72 KB        227 obj      0.5 ms           active_support/core_ext/process/daemon
+                                                   active_support/core_ext/string/conversions
+     91.36 KB       2100 obj      2.0 ms            active_support/core_ext/time/calculations
+    144.49 KB       2709 obj      3.3 ms           active_support/core_ext/string/conversions
+                                                   active_support/core_ext/string/interpolation
+     52.33 KB        779 obj      1.0 ms            i18n/core_ext/string/interpolate
+     83.59 KB        992 obj      1.7 ms           active_support/core_ext/string/interpolation
+     19.09 KB        144 obj      0.5 ms           active_support/core_ext/string/encoding
+                                                   active_support/core_ext/rexml
+     21.96 KB        207 obj      0.9 ms            rexml/rexml
+     60.56 KB        624 obj      1.7 ms           active_support/core_ext/rexml
+     17.69 KB        121 obj      0.4 ms           active_support/core_ext/file/path
+     28.57 KB        288 obj      0.6 ms           active_support/core_ext/module/method_names
+   1211.02 KB      19115 obj     27.8 ms          active_support/ruby/shim
+     23.74 KB        352 obj      0.6 ms          active_support/core_ext/module/attr_internal
+     32.92 KB        241 obj      0.7 ms          active_support/core_ext/module/anonymous
+   1364.43 KB      20806 obj     31.7 ms         abstract_controller
+                                                 action_view
+                                                  active_support/core_ext/string/output_safety
+    160.68 KB       3515 obj      3.9 ms           erb
+    228.42 KB       5371 obj      5.7 ms          active_support/core_ext/string/output_safety
+    317.73 KB       6677 obj      8.1 ms         action_view
+     22.48 KB        366 obj      0.5 ms         action_controller/vendor/html-scanner
+     21.04 KB        221 obj      0.5 ms         active_support/core_ext/load_error
+     18.70 KB        192 obj      0.5 ms         active_support/core_ext/name_error
+     19.07 KB        269 obj      0.5 ms         active_support/core_ext/uri
+   1887.90 KB      30585 obj     45.3 ms        action_controller
+     55.06 KB        579 obj      1.2 ms        action_view/railtie
+     17.10 KB        178 obj      0.5 ms        abstract_controller/railties/routes_helpers
+     17.33 KB        207 obj      0.4 ms        action_controller/railties/paths
+   2027.74 KB      32185 obj     48.7 ms       action_controller/railtie
+   3944.83 KB      62045 obj     94.0 ms      active_record/railtie
+                                              action_mailer/railtie
+                                               action_mailer
+     14.42 KB        130 obj      0.3 ms        action_mailer/version
+                                                active_support/core_ext/class
+                                                 active_support/core_ext/class/inheritable_attributes
+     30.89 KB        353 obj      0.6 ms          active_support/core_ext/object/duplicable
+    101.78 KB       1541 obj      2.2 ms         active_support/core_ext/class/inheritable_attributes
+     73.43 KB        843 obj      1.8 ms         active_support/core_ext/class/delegating_attributes
+                                                 active_support/core_ext/class/subclasses
+     45.31 KB        341 obj      1.0 ms          active_support/core_ext/module/reachable
+     78.95 KB        747 obj     92.2 ms         active_support/core_ext/class/subclasses
+    292.04 KB       3477 obj     97.2 ms        active_support/core_ext/class
+     16.56 KB        185 obj      0.5 ms        active_support/core_ext/array/uniq_by
+    415.87 KB       4894 obj    100.9 ms       action_mailer
+    457.02 KB       5433 obj    101.9 ms      action_mailer/railtie
+                                              active_resource/railtie
+                                               active_resource
+     14.34 KB        122 obj      0.3 ms        active_resource/version
+     56.11 KB        743 obj      1.5 ms       active_resource
+     78.71 KB        979 obj      2.1 ms      active_resource/railtie
+     16.30 KB        171 obj      0.3 ms      rails/test_unit/railtie
+     37.06 KB        688 obj      0.8 ms      sprockets/railtie
+   7595.67 KB     117312 obj    283.2 ms     rails/all
+                                             sqlite3/1.8/sqlite3_native
+     15.36 KB        122 obj      0.8 ms      sqlite3/sqlite3_native
+                                              sqlite3/database
+     20.96 KB        258 obj      0.2 ms       sqlite3/constants
+     41.06 KB        533 obj      0.4 ms       sqlite3/errors
+     63.59 KB       1694 obj      0.9 ms       sqlite3/pragmas
+                                               sqlite3/statement
+     47.10 KB        560 obj      0.5 ms        sqlite3/resultset
+     84.34 KB       1117 obj      0.9 ms       sqlite3/statement
+     42.62 KB        882 obj      1.6 ms       sqlite3/translator
+     26.66 KB        320 obj      0.3 ms       sqlite3/value
+    372.25 KB       6794 obj      5.5 ms      sqlite3/database
+     13.08 KB        157 obj      0.2 ms      sqlite3/version
+                                              json/common
+     12.47 KB        107 obj      0.3 ms       json/version
+     15.19 KB        172 obj      1.4 ms       iconv
+    101.38 KB       2154 obj      3.2 ms      json/common
+                                              json/ext
+     11.15 KB         58 obj      0.4 ms       json/ext/parser
+     17.97 KB        157 obj      0.6 ms       json/ext/generator
+     72.27 KB       2381 obj      2.3 ms      json/ext
+                                              sass/rails
+                                               sass/rails/compressor
+                                                sass
+                                                 sass/version
+                                                  /Users/ben/.rvm/gems/ree-1.8.7-2010.02/gems/sass-3.1.4/lib/sass/../sass
+                                                   sass/logger
+     24.35 KB        297 obj      0.3 ms            sass/logger/log_level
+     37.98 KB        398 obj      0.5 ms            sass/logger/base
+     79.34 KB        801 obj      0.9 ms           sass/logger
+                                                   sass/util
+     17.53 KB         50 obj      0.1 ms            sass/root
+     42.79 KB        500 obj      0.6 ms            sass/util/subset_map
+    247.39 KB       4382 obj      5.1 ms           sass/util
+                                                   sass/engine
+                                                    sass/cache_stores
+     30.21 KB        381 obj      0.3 ms             sass/cache_stores/base
+     25.41 KB        321 obj      0.2 ms             sass/cache_stores/filesystem
+     24.04 KB        222 obj      0.2 ms             sass/cache_stores/memory
+     21.85 KB        183 obj      0.2 ms             sass/cache_stores/chain
+    132.90 KB       1339 obj      1.4 ms            sass/cache_stores
+     46.78 KB        787 obj      0.5 ms            sass/tree/node
+     20.13 KB        154 obj      0.2 ms            sass/tree/root_node
+     61.69 KB        773 obj      2.7 ms            sass/tree/rule_node
+     40.57 KB        400 obj      0.4 ms            sass/tree/comment_node
+     38.51 KB        851 obj      0.5 ms            sass/tree/prop_node
+     19.16 KB         87 obj      0.1 ms            sass/tree/directive_node
+     20.48 KB        140 obj      0.2 ms            sass/tree/media_node
+     21.09 KB        140 obj      0.2 ms            sass/tree/variable_node
+     20.41 KB        125 obj      0.2 ms            sass/tree/mixin_def_node
+     33.51 KB        167 obj      0.2 ms            sass/tree/mixin_node
+     20.41 KB        125 obj      0.1 ms            sass/tree/function_node
+     19.22 KB        105 obj      0.1 ms            sass/tree/return_node
+     32.66 KB        125 obj      0.2 ms            sass/tree/extend_node
+     38.56 KB        347 obj      0.3 ms            sass/tree/if_node
+     31.72 KB        125 obj      0.2 ms            sass/tree/while_node
+     34.12 KB        180 obj      0.2 ms            sass/tree/for_node
+     32.51 KB        142 obj      0.2 ms            sass/tree/each_node
+     19.22 KB        105 obj      0.1 ms            sass/tree/debug_node
+     19.34 KB        106 obj      0.1 ms            sass/tree/warn_node
+     26.49 KB        358 obj      0.3 ms            sass/tree/import_node
+     19.09 KB        101 obj      0.1 ms            sass/tree/charset_node
+     27.34 KB        271 obj      0.2 ms            sass/tree/visitors/base
+     61.74 KB       2151 obj      0.9 ms            sass/tree/visitors/perform
+     40.74 KB       1100 obj      0.5 ms            sass/tree/visitors/cssize
+     60.35 KB       2200 obj      0.9 ms            sass/tree/visitors/convert
+     51.91 KB       1923 obj      0.8 ms            sass/tree/visitors/to_css
+     38.05 KB        929 obj      0.5 ms            sass/tree/visitors/check_nesting
+                                                    sass/selector
+     32.82 KB        501 obj      0.3 ms             sass/selector/simple
+     25.83 KB        226 obj      0.2 ms             sass/selector/abstract_sequence
+     28.77 KB        375 obj      0.3 ms             sass/selector/comma_sequence
+     50.72 KB       1370 obj      0.6 ms             sass/selector/sequence
+     36.43 KB        614 obj      0.4 ms             sass/selector/simple_sequence
+    246.05 KB       4487 obj      2.6 ms            sass/selector
+     57.30 KB       1401 obj      1.0 ms            sass/environment
+                                                    sass/script
+     30.34 KB        333 obj      0.3 ms             sass/script/node
+     25.14 KB        261 obj      0.2 ms             sass/script/variable
+                                                     sass/script/funcall
+    230.48 KB       5805 obj      2.4 ms              sass/script/functions
+    270.54 KB       7010 obj      3.0 ms             sass/script/funcall
+                                                     sass/script/operation
+                                                      sass/script/string
+                                                       sass/script/literal
+     98.08 KB       1924 obj      1.1 ms                sass/script/number
+    118.79 KB       3047 obj      1.3 ms                sass/script/color
+     39.71 KB        124 obj      0.3 ms                sass/script/bool
+     31.25 KB        449 obj      0.7 ms                sass/script/list
+    357.61 KB       6520 obj      4.2 ms               sass/script/literal
+    383.15 KB       6874 obj      4.5 ms              sass/script/string
+     26.70 KB        329 obj      0.2 ms              sass/script/unary_operation
+     28.37 KB        397 obj      0.2 ms              sass/script/interpolation
+     32.52 KB        572 obj      0.3 ms              sass/script/string_interpolation
+    556.09 KB       8952 obj      6.3 ms             sass/script/operation
+                                                     sass/script/parser
+                                                      sass/script/lexer
+     71.58 KB       1178 obj      0.8 ms               sass/scss/rx
+    196.03 KB       4093 obj      2.8 ms              sass/script/lexer
+    293.03 KB       7970 obj      4.5 ms             sass/script/parser
+   1223.80 KB      24938 obj     14.9 ms            sass/script
+                                                    sass/scss
+     18.98 KB         92 obj      0.1 ms             sass/scss/script_lexer
+     20.37 KB        108 obj      0.1 ms             sass/scss/script_parser
+    216.72 KB       6163 obj      3.4 ms             sass/scss/parser
+     18.60 KB         61 obj      0.2 ms             sass/scss/sass_parser
+     23.17 KB        247 obj      0.2 ms             sass/scss/static_parser
+                                                     sass/scss/css_parser
+                                                      sass/script/css_parser
+     23.85 KB        189 obj      0.2 ms               sass/script/css_lexer
+     62.17 KB        500 obj      0.5 ms              sass/script/css_parser
+     86.56 KB        768 obj      0.7 ms             sass/scss/css_parser
+    414.98 KB       7596 obj      5.2 ms            sass/scss
+     44.75 KB        970 obj      0.5 ms            sass/error
+                                                    sass/importers
+     35.21 KB        262 obj      0.2 ms             sass/importers/base
+     54.20 KB        978 obj      0.8 ms             sass/importers/filesystem
+    108.14 KB       1324 obj      1.2 ms            sass/importers
+     40.10 KB        506 obj      0.6 ms            sass/shared
+   3362.54 KB      62875 obj     42.9 ms           sass/engine
+     26.59 KB        288 obj      0.5 ms           sass/railtie
+   3749.18 KB      68731 obj     49.9 ms          /Users/ben/.rvm/gems/ree-1.8.7-2010.02/gems/sass-3.1.4/lib/sass/../sass
+   3789.26 KB      69422 obj     50.5 ms         sass/version
+   3845.31 KB      69829 obj     51.2 ms        sass
+   3858.35 KB      69941 obj     51.4 ms       sass/rails/compressor
+     13.52 KB        123 obj      0.3 ms       sass/rails/logger
+     30.13 KB        452 obj      0.6 ms       sass/rails/railtie
+     24.72 KB        306 obj      0.6 ms       sass/rails/monkey_patches
+     21.29 KB        642 obj      0.5 ms       sass/rails/helpers
+                                               sass/rails/importer
+     20.51 KB        461 obj      0.9 ms        sprockets
+     50.63 KB       1355 obj      1.5 ms       sass/rails/importer
+                                               sass/rails/template_handlers
+                                                tilt
+                                                 tilt/string
+     56.85 KB       1391 obj      1.4 ms          tilt/template
+     73.55 KB       1607 obj      1.9 ms         tilt/string
+     40.36 KB        731 obj      0.8 ms         tilt/erb
+     32.77 KB        429 obj      0.6 ms         tilt/haml
+     33.90 KB        495 obj      0.6 ms         tilt/css
+     31.06 KB        380 obj      0.6 ms         tilt/coffee
+     30.35 KB        382 obj      0.6 ms         tilt/nokogiri
+     29.34 KB        373 obj      0.6 ms         tilt/builder
+     31.00 KB        400 obj      0.6 ms         tilt/markaby
+     28.92 KB        397 obj      0.6 ms         tilt/liquid
+     30.78 KB        419 obj      0.6 ms         tilt/radius
+     45.50 KB        817 obj      0.8 ms         tilt/markdown
+     26.95 KB        272 obj      0.6 ms         tilt/textile
+     27.98 KB        303 obj      0.6 ms         tilt/rdoc
+     27.48 KB        311 obj      0.6 ms         tilt/creole
+    546.43 KB       8979 obj     11.7 ms        tilt
+     24.55 KB        257 obj      0.6 ms        sprockets/eco_template
+     24.55 KB        257 obj      0.6 ms        sprockets/ejs_template
+     25.91 KB        292 obj      0.6 ms        sprockets/jst_processor
+     14.73 KB        136 obj      0.4 ms        sprockets/utils
+    689.65 KB      11014 obj     15.3 ms       sass/rails/template_handlers
+     10.79 KB         48 obj      0.1 ms       sass/rails/version
+   4711.06 KB      84046 obj     70.5 ms      sass/rails
+                                              coffee-script
+                                               coffee_script
+                                                execjs
+                                                 execjs/module
+     14.40 KB         67 obj      0.2 ms          execjs/version
+     46.15 KB        505 obj      1.7 ms         execjs/module
+                                                 execjs/runtimes
+                                                  execjs/external_runtime
+                                                   tempfile
+     64.53 KB       1290 obj      1.5 ms            delegate
+                                                    tmpdir
+                                                     Win32API
+     65.05 KB       1082 obj      3.0 ms             tmpdir
+    260.27 KB      10659 obj      9.5 ms            tempfile
+    311.28 KB      11859 obj     10.5 ms           execjs/external_runtime
+     33.27 KB        695 obj      0.5 ms           execjs/johnson_runtime
+     27.39 KB        522 obj      0.4 ms           execjs/mustang_runtime
+     32.50 KB        702 obj      0.5 ms           execjs/ruby_racer_runtime
+     30.17 KB        601 obj      0.5 ms           execjs/ruby_rhino_runtime
+    484.08 KB      15176 obj     43.6 ms          execjs/runtimes
+                                                  v8
+                                                   rhino
+                                                    johnson
+                                                     mustang
+     26.27 KB        456 obj      1.2 ms              multi_json
+    634.30 KB      17095 obj     52.4 ms             execjs
+     13.79 KB         97 obj      0.4 ms             coffee_script/source
+    668.88 KB      17596 obj     53.4 ms            coffee_script
+    678.31 KB      17657 obj     53.8 ms           coffee-script
+     18.37 KB        157 obj      0.6 ms           coffee/rails/railtie
+     10.01 KB         62 obj      0.2 ms           coffee/rails/version
+                                                   jquery/rails
+     63.80 KB       1366 obj      1.9 ms            jquery/rails/engine
+     11.81 KB         85 obj      0.2 ms            jquery/rails/version
+     87.32 KB       1582 obj      2.4 ms           jquery/rails
+  13864.52 KB     236190 obj    432.1 ms          /Users/ben/Development/RailsProfiling/three-one-stable/config/application
+                                                  active_support/dependencies
+     32.34 KB        532 obj      0.9 ms           active_support/core_ext/module/introspection
+     13.30 KB        128 obj      0.5 ms           active_support/core_ext/string/starts_ends_with
+    272.55 KB       7034 obj      9.6 ms          active_support/dependencies
+     20.34 KB        347 obj      0.6 ms          active_support/descendants_tracker
+     21.13 KB        337 obj      0.7 ms          active_support/core_ext/object/to_param
+     13.18 KB        142 obj      0.5 ms          active_support/core_ext/regexp
+     23.98 KB        427 obj      1.5 ms          rack/mount
+     41.14 KB        618 obj      1.5 ms          forwardable
+     27.37 KB        383 obj      0.9 ms          active_support/core_ext/object/to_query
+     18.23 KB        305 obj      0.6 ms          active_support/core_ext/hash/slice
+                                                  active_support/core_ext/hash/indifferent_access
+     51.45 KB        971 obj      1.2 ms           active_support/hash_with_indifferent_access
+     69.45 KB       1159 obj      1.8 ms          active_support/core_ext/hash/indifferent_access
+     36.07 KB        598 obj      0.9 ms          active_support/core_ext/string/access
+                                                  action_dispatch/http/headers
+     59.96 KB       1002 obj      1.5 ms           active_support/memoizable
+     83.23 KB       1528 obj      2.2 ms          action_dispatch/http/headers
+                                                  rack/utils
+     25.67 KB        408 obj      0.7 ms           rack/multipart
+     25.33 KB        527 obj      0.7 ms           rack/backports/uri/common
+    185.80 KB       5826 obj      5.3 ms          rack/utils
+     31.77 KB        947 obj      0.8 ms          rack/mount/multimap
+                                                  rack/mount/route
+                                                   rack/mount/generatable_regexp
+                                                    rack/mount/utils
+                                                     regin
+     61.05 KB       1068 obj      1.3 ms              regin
+    129.26 KB       2486 obj      4.1 ms             rack/mount/utils
+    175.48 KB       3822 obj      5.2 ms            rack/mount/generatable_regexp
+     35.31 KB        559 obj      1.0 ms            rack/mount/regexp_with_named_groups
+    248.50 KB       5323 obj      7.2 ms           rack/mount/route
+     11.87 KB        193 obj      0.3 ms           /Users/ben/Development/RailsProfiling/three-one-stable/config/environments/development.rb
+                                                   active_support/all
+                                                    active_support/time
+     26.23 KB        448 obj      0.8 ms             active_support/core_ext/time/marshal
+     30.29 KB        266 obj      0.8 ms             active_support/core_ext/time/acts_like
+     30.37 KB        266 obj      0.8 ms             active_support/core_ext/date/acts_like
+     36.02 KB        489 obj      1.1 ms             active_support/core_ext/date/freeze
+     91.79 KB       1172 obj      2.1 ms             active_support/core_ext/date/conversions
+     31.49 KB        284 obj      1.4 ms             active_support/core_ext/date_time/acts_like
+     31.52 KB        302 obj      1.0 ms             active_support/core_ext/date_time/zones
+     21.02 KB        226 obj      0.6 ms             active_support/core_ext/integer/time
+     64.71 KB        834 obj      1.8 ms             active_support/core_ext/numeric/time
+    505.94 KB       6114 obj     16.6 ms            active_support/time
+                                                    active_support/core_ext
+                                                     active_support/core_ext/array
+     24.46 KB        277 obj      0.6 ms              active_support/core_ext/array/access
+     43.85 KB        651 obj      1.8 ms              active_support/core_ext/array/grouping
+     22.59 KB        328 obj      0.6 ms              active_support/core_ext/array/random_access
+    161.31 KB       1941 obj      4.9 ms             active_support/core_ext/array
+     27.59 KB        293 obj      1.5 ms             active_support/core_ext/benchmark
+                                                     active_support/core_ext/big_decimal
+                                                      active_support/core_ext/big_decimal/conversions
+                                                       psych
+     66.93 KB        870 obj      4.7 ms               active_support/core_ext/big_decimal/conversions
+     83.34 KB       1004 obj      5.3 ms              active_support/core_ext/big_decimal
+     16.41 KB        136 obj      0.5 ms              active_support/core_ext/exception
+                                                      active_support/core_ext/file
+     23.41 KB        312 obj      0.6 ms               active_support/core_ext/file/atomic
+     52.01 KB        574 obj      1.4 ms              active_support/core_ext/file
+                                                      active_support/core_ext/float
+     20.74 KB        196 obj      0.5 ms               active_support/core_ext/float/rounding
+     36.55 KB        330 obj      1.0 ms              active_support/core_ext/float
+                                                      active_support/core_ext/hash
+    124.87 KB       1644 obj      2.8 ms               active_support/core_ext/hash/conversions
+     20.50 KB        206 obj      0.5 ms               active_support/core_ext/hash/deep_merge
+     19.31 KB        180 obj      0.5 ms               active_support/core_ext/hash/diff
+     20.91 KB        185 obj      0.5 ms               active_support/core_ext/hash/except
+    269.40 KB       3048 obj      6.6 ms              active_support/core_ext/hash
+                                                      active_support/core_ext/integer
+     19.13 KB        150 obj      0.5 ms               active_support/core_ext/integer/multiple
+     34.14 KB        279 obj      0.8 ms               active_support/core_ext/integer/inflections
+     82.79 KB        712 obj      2.2 ms              active_support/core_ext/integer
+                                                      active_support/core_ext/kernel
+     19.70 KB        168 obj      0.5 ms               active_support/core_ext/kernel/agnostics
+     53.46 KB        548 obj      1.3 ms               active_support/core_ext/kernel/requires
+     20.77 KB        210 obj      0.5 ms               active_support/core_ext/kernel/debugger
+    138.19 KB       1357 obj      3.6 ms              active_support/core_ext/kernel
+                                                      active_support/core_ext/module
+     24.45 KB        225 obj      0.6 ms               active_support/core_ext/module/attr_accessor_with_default
+     68.04 KB        723 obj      1.7 ms               active_support/core_ext/module/synchronization
+    246.92 KB       2374 obj      6.1 ms              active_support/core_ext/module
+                                                      active_support/core_ext/numeric
+     25.67 KB        354 obj      0.6 ms               active_support/core_ext/numeric/bytes
+     54.85 KB        616 obj      1.5 ms              active_support/core_ext/numeric
+                                                      active_support/core_ext/object
+     78.71 KB        621 obj      1.8 ms               active_support/core_ext/object/conversions
+     23.73 KB        225 obj      0.6 ms               active_support/core_ext/object/instance_variables
+     35.08 KB        504 obj      1.0 ms               active_support/core_ext/object/to_json
+                                                       active_support/core_ext/object/with_options
+     49.35 KB        759 obj      1.6 ms                active_support/option_merger
+     73.63 KB        962 obj      2.1 ms               active_support/core_ext/object/with_options
+    322.16 KB       3401 obj      8.4 ms              active_support/core_ext/object
+     31.35 KB        333 obj      0.9 ms              active_support/core_ext/proc
+     29.05 KB        240 obj      0.8 ms              active_support/core_ext/process
+                                                      active_support/core_ext/range
+     37.90 KB        382 obj      0.9 ms               active_support/core_ext/range/blockless_step
+     26.31 KB        232 obj      0.6 ms               active_support/core_ext/range/conversions
+     21.63 KB        219 obj      0.6 ms               active_support/core_ext/range/include_range
+     19.18 KB        147 obj      0.5 ms               active_support/core_ext/range/overlaps
+     28.13 KB        288 obj      0.7 ms               active_support/core_ext/range/cover
+    150.28 KB       1487 obj      3.9 ms              active_support/core_ext/range
+                                                      active_support/core_ext/string
+     40.17 KB        425 obj      0.9 ms               active_support/core_ext/string/filters
+                                                       active_support/core_ext/string/xchar
+                                                        fast_xs
+     38.01 KB        398 obj      1.8 ms                active_support/core_ext/string/xchar
+     18.98 KB        137 obj      0.5 ms                active_support/core_ext/string/behavior
+     18.86 KB        140 obj      0.5 ms                active_support/core_ext/string/exclude
+     36.10 KB        314 obj      0.8 ms                active_support/core_ext/string/strip
+     33.79 KB        275 obj      0.8 ms                active_support/core_ext/string/inquiry
+    313.35 KB       2945 obj      8.6 ms               active_support/core_ext/string
+   2123.52 KB      22266 obj     61.1 ms              active_support/core_ext
+   2648.67 KB      28662 obj     79.2 ms             active_support/all
+     80.71 KB       1739 obj      2.4 ms             active_support/cache/file_store
+                                                     active_record/railties/controller_runtime
+     84.79 KB       2093 obj      2.6 ms              active_record/log_subscriber
+    116.61 KB       2588 obj      3.8 ms             active_record/railties/controller_runtime
+     48.15 KB       1025 obj      1.2 ms             active_support/whiny_nil
+                                                     tzinfo
+     72.25 KB       2854 obj      1.8 ms              tzinfo/ruby_core_support
+     39.04 KB        972 obj      0.7 ms              tzinfo/offset_rationals
+    146.51 KB       6072 obj      2.9 ms              tzinfo/time_or_datetime
+     22.93 KB        220 obj      0.5 ms              tzinfo/timezone_definition
+     28.38 KB        428 obj      0.5 ms              tzinfo/timezone_offset_info
+     79.46 KB       3014 obj      1.6 ms              tzinfo/timezone_transition_info
+     25.57 KB        288 obj      0.5 ms              tzinfo/timezone_index_definition
+     19.93 KB        181 obj      0.4 ms              tzinfo/timezone_info
+     46.21 KB       1085 obj      0.8 ms              tzinfo/data_timezone_info
+     20.54 KB        195 obj      0.4 ms              tzinfo/linked_timezone_info
+     42.81 KB        862 obj      0.7 ms              tzinfo/timezone_period
+    141.66 KB       4400 obj      2.3 ms              tzinfo/timezone
+     21.36 KB        210 obj      0.4 ms              tzinfo/info_timezone
+     20.43 KB        169 obj      0.4 ms              tzinfo/data_timezone
+     21.27 KB        198 obj      0.4 ms              tzinfo/linked_timezone
+     26.18 KB        314 obj      0.4 ms              tzinfo/timezone_proxy
+     22.24 KB        215 obj      0.4 ms              tzinfo/country_index_definition
+     25.61 KB        346 obj      0.5 ms              tzinfo/country_info
+     39.28 KB        684 obj      0.6 ms              tzinfo/country
+     29.12 KB        446 obj      0.5 ms              tzinfo/country_timezone
+   1628.44 KB      69897 obj     30.9 ms             tzinfo
+      6.20 KB         19 obj      0.1 ms             /Users/ben/Development/RailsProfiling/three-one-stable/config/initializers/backtrace_silencers.rb
+      6.56 KB         22 obj      0.1 ms             /Users/ben/Development/RailsProfiling/three-one-stable/config/initializers/inflections.rb
+      5.93 KB         17 obj      0.1 ms             /Users/ben/Development/RailsProfiling/three-one-stable/config/initializers/mime_types.rb
+      6.41 KB         34 obj      0.1 ms             /Users/ben/Development/RailsProfiling/three-one-stable/config/initializers/secret_token.rb
+      6.51 KB         44 obj      0.1 ms             /Users/ben/Development/RailsProfiling/three-one-stable/config/initializers/session_store.rb
+                                                     /Users/ben/Development/RailsProfiling/three-one-stable/config/initializers/wrap_parameters.rb
+     81.56 KB       3680 obj      2.0 ms              action_controller/log_subscriber
+    130.20 KB       5671 obj      2.8 ms              action_dispatch/middleware/stack
+                                                      erubis
+                                                       erubis/engine
+                                                        erubis/generator
+     22.08 KB        203 obj      0.5 ms                 erubis/util
+     89.19 KB       2936 obj      1.8 ms                erubis/generator
+    121.92 KB       4517 obj      2.3 ms                erubis/converter
+                                                        erubis/evaluator
+     22.98 KB        163 obj      0.5 ms                 erubis/error
+     31.62 KB        479 obj      0.6 ms                 erubis/context
+    164.18 KB       5905 obj      3.1 ms                erubis/evaluator
+    565.53 KB      23496 obj     11.2 ms               erubis/engine
+     25.27 KB        379 obj      0.6 ms               erubis/helper
+    131.07 KB       3456 obj      1.9 ms               erubis/enhancer
+    134.38 KB       5566 obj      2.7 ms               erubis/engine/eruby
+     16.85 KB        112 obj      0.4 ms               erubis/local-setting
+   1076.21 KB      44921 obj     21.6 ms              erubis
+    273.79 KB      12777 obj      5.7 ms              active_support/configurable
+    120.26 KB       5253 obj      2.6 ms              active_support/benchmarkable
+                                                      action_dispatch/http/response
+     16.52 KB        261 obj      2.2 ms               digest/md5
+    438.39 KB      19956 obj     11.7 ms              action_dispatch/http/response
+     68.57 KB       1610 obj      3.4 ms              singleton
+     82.61 KB       3126 obj      2.0 ms              active_model/observer_array
+                                                      abstract_controller/collector
+                                                       action_dispatch/http/mime_type
+     30.48 KB        649 obj      0.7 ms                action_dispatch/http/mime_types
+    291.43 KB      12814 obj      7.0 ms               action_dispatch/http/mime_type
+    353.55 KB      15865 obj      8.5 ms              abstract_controller/collector
+     68.37 KB       2878 obj      1.7 ms              rack/chunked
+                                                      active_support/base64
+                                                       base64
+                                                        kconv
+     19.33 KB        155 obj      8.0 ms                 nkf
+    126.45 KB       3672 obj     10.6 ms                kconv
+    200.62 KB       6710 obj     12.9 ms               base64
+    258.26 KB       9346 obj     14.3 ms              active_support/base64
+                                                      active_support/json
+    188.00 KB       8091 obj      4.5 ms               active_support/json/decoding
+                                                       active_support/json/encoding
+     21.70 KB        177 obj      0.5 ms                active_support/json/variable
+    879.48 KB      40353 obj     16.8 ms               active_support/json/encoding
+   1158.15 KB      53396 obj     23.3 ms              active_support/json
+     21.86 KB        346 obj      0.6 ms              action_view/log_subscriber
+                                                      action_view/helpers/form_helper
+                                                       cgi
+     40.86 KB        367 obj      1.5 ms                English
+    912.39 KB      24784 obj     14.1 ms               cgi
+                                                       action_view/helpers/date_helper
+    357.39 KB      14358 obj      6.5 ms                action_view/helpers/tag_helper
+    859.90 KB      32176 obj     14.5 ms               action_view/helpers/date_helper
+                                                       action_view/helpers/form_tag_helper
+     90.08 KB       3094 obj      1.6 ms                action_view/helpers/javascript_helper
+   1198.98 KB      48023 obj     21.6 ms               action_view/helpers/form_tag_helper
+   3737.35 KB     136824 obj     63.8 ms              action_view/helpers/form_helper
+                                                      action_view/helpers/asset_tag_helpers/javascript_tag_helpers
+    266.72 KB      11410 obj      4.8 ms               action_view/helpers/asset_tag_helpers/asset_include_tag
+    470.31 KB      19681 obj      8.2 ms              action_view/helpers/asset_tag_helpers/javascript_tag_helpers
+    210.79 KB       8170 obj      3.7 ms              action_view/helpers/asset_tag_helpers/stylesheet_tag_helpers
+    267.84 KB      11908 obj      6.3 ms              action_view/helpers/asset_tag_helpers/asset_paths
+                                                      action_view/template
+    161.74 KB       5701 obj      3.0 ms               action_view/template/handler
+    724.00 KB      27017 obj     13.4 ms              action_view/template
+                                                      psych
+     50.79 KB        672 obj      0.8 ms               active_record/errors
+    364.63 KB      16475 obj      7.4 ms               active_model/errors
+     79.03 KB       2958 obj      1.7 ms               active_model/validations/callbacks
+    262.98 KB      10992 obj      5.2 ms               active_model/validations/acceptance.rb
+     22.82 KB        231 obj      0.4 ms               active_model/validations/confirmation.rb
+     71.12 KB       2708 obj      1.1 ms               active_model/validations/exclusion.rb
+     26.66 KB        385 obj      0.4 ms               active_model/validations/format.rb
+     70.78 KB       2708 obj      1.1 ms               active_model/validations/inclusion.rb
+     34.53 KB        540 obj      0.5 ms               active_model/validations/length.rb
+     33.51 KB        604 obj      0.5 ms               active_model/validations/numericality.rb
+     70.85 KB       2669 obj      1.3 ms               active_model/validations/presence.rb
+     80.79 KB       2897 obj      1.4 ms               active_model/validations/validates.rb
+     32.41 KB        404 obj      0.4 ms               active_model/validations/with.rb
+     21.99 KB        229 obj      0.7 ms               active_record/validations/associated
+     90.17 KB       3153 obj      1.7 ms               active_record/validations/uniqueness
+                                                       active_model/mass_assignment_security/permission_set
+     23.08 KB        249 obj      0.6 ms                active_model/mass_assignment_security/sanitizer
+    133.98 KB       5547 obj      3.0 ms               active_model/mass_assignment_security/permission_set
+                                                       bcrypt
+     16.10 KB        122 obj      1.2 ms                bcrypt_ext
+    148.20 KB       6066 obj      5.3 ms               bcrypt
+    440.92 KB      19560 obj      8.1 ms               active_record/serializers/xml_serializer
+                                                       active_record/connection_adapters/abstract_adapter
+     24.59 KB        442 obj      1.1 ms                bigdecimal/util
+    116.20 KB       4333 obj      2.2 ms                active_record/connection_adapters/column
+    374.95 KB      16895 obj      7.2 ms                active_record/connection_adapters/abstract/schema_definitions
+    152.17 KB       5171 obj      2.4 ms                active_record/connection_adapters/abstract/schema_statements
+    129.63 KB       4373 obj      2.6 ms                active_record/connection_adapters/abstract/database_statements
+     86.38 KB       3231 obj      1.6 ms                active_record/connection_adapters/abstract/quoting
+    294.02 KB      12595 obj      6.4 ms                active_record/connection_adapters/abstract/connection_pool
+     65.00 KB       1173 obj      1.3 ms                active_record/connection_adapters/abstract/connection_specification
+     29.60 KB        467 obj      0.5 ms                active_record/connection_adapters/abstract/query_cache
+     26.13 KB        272 obj      0.4 ms                active_record/connection_adapters/abstract/database_limits
+     20.46 KB        229 obj      0.5 ms                active_record/result
+   1971.12 KB      85539 obj     39.9 ms               active_record/connection_adapters/abstract_adapter
+                                                       active_record/connection_adapters/sqlite3_adapter
+    202.53 KB       8289 obj      3.5 ms                active_record/connection_adapters/sqlite_adapter
+    313.89 KB      13593 obj      5.7 ms               active_record/connection_adapters/sqlite3_adapter
+  27981.34 KB    1150195 obj    775.9 ms              /Users/ben/Development/RailsProfiling/three-one-stable/config/initializers/wrap_parameters.rb
+     16.35 KB        266 obj      0.6 ms              rack/body_proxy
+                                                      rack/file
+     50.02 KB       2073 obj      1.5 ms               rack/mime
+    209.15 KB      10405 obj      5.6 ms              rack/file
+                                                      action_dispatch/middleware/session/abstract_store
+    262.52 KB      12040 obj      5.9 ms               rack/session/abstract/id
+    520.83 KB      25170 obj     11.2 ms              action_dispatch/middleware/session/abstract_store
+    224.35 KB      10976 obj      4.6 ms              rack/session/cookie
+     21.18 KB        317 obj      0.6 ms              i18n/core_ext/hash
+     16.59 KB        150 obj      0.5 ms              i18n/core_ext/kernel/surpress_warnings
+     70.88 KB       3040 obj      1.7 ms              sprockets/asset_attributes
+                                                      sprockets/context
+     20.65 KB        243 obj      0.7 ms               sprockets/errors
+    188.03 KB       8793 obj      4.5 ms              sprockets/context
+    258.90 KB      11610 obj      6.7 ms              sprockets/directive_processor
+                                                      sprockets/environment_index
+    230.07 KB      11061 obj      5.5 ms               sprockets/bundled_asset
+    121.82 KB       5559 obj      2.7 ms               sprockets/static_asset
+     67.26 KB       2745 obj      1.5 ms               sprockets/compressor
+   1128.84 KB      55745 obj     26.0 ms              sprockets/environment_index
+     13.70 KB        179 obj      0.9 ms              hike
+                                                      hike/extensions
+     24.23 KB        371 obj      0.6 ms               hike/normalized_array
+     78.97 KB       2986 obj      1.7 ms              hike/extensions
+     91.10 KB       3736 obj      2.1 ms              hike/index
+    112.28 KB       5307 obj      2.5 ms              hike/paths
+     78.86 KB       3112 obj      1.6 ms              action_dispatch/routing/redirection
+                                                      rack/mount/strexp/parser
+                                                       racc/parser.rb
+     19.00 KB        146 obj      1.1 ms                racc/cparse
+    140.31 KB       5027 obj    102.8 ms               racc/parser.rb
+    135.79 KB       5768 obj      3.7 ms               rack/mount/strexp/tokenizer
+    443.96 KB      19215 obj    109.8 ms              rack/mount/strexp/parser
+    168.99 KB       6927 obj      3.6 ms              regin/tokenizer
+     17.63 KB         90 obj      0.1 ms              /Users/ben/Development/RailsProfiling/three-one-stable/config/routes.rb
+  63568.39 KB    2270719 obj   1919.1 ms             config/environment
+  63571.32 KB     262752 obj   1919.5 ms  26568 KB RSS     436.2 ms GC time  5 GC runs
