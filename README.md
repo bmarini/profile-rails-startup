@@ -2,8 +2,8 @@
 
 ## 3.0
 
-    cd 3-0-stable && bundle exec ../profile config/environment > ../profiles/3-0-stable.txt
+    pushd three-oh-stable && bundle exec ../profile config/environment && popd
 
 ## 3.1
 
-    cd 3-1-stable && bundle exec ../profile config/environment > ../profiles/3-1-stable.txt
+    pushd three-one-stable && bundle exec ../profile config/environment && popd
